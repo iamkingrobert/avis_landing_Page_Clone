@@ -1,0 +1,258 @@
+.new-bg-color{
+    background-color: #D9D9D9 !important;
+    height: 70px;
+}
+.navbar-collapse{
+    margin-left: 280px;
+}
+.nav-item a{
+    color: #28282B !important;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.verticalLine{
+    border-right: 0.1px solid black;
+    height: 70px;
+}
+.hero-img{
+    position: relative;
+    border-bottom: #D4002A solid;
+}
+.hero-text{
+    position: relative;
+    color: white;
+    margin-top: 40px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.form-style{
+    position: relative;
+    margin-top: 40px;
+    justify-content: center;
+}
+.form-style1{
+    position: relative;
+    margin-top: 10px;
+    justify-content: center;
+}
+.form1{
+    width: 450px;
+    border-radius: 0px !important;
+}
+.form2{
+    width: 220px;
+    border-radius: 0px !important;
+    border-right: white;
+}
+.fa-clock{
+    background-color: white;
+    padding-top: 18px;
+    padding-right: 8px;
+    font-size: 28px;
+    color: red;
+}
+.button-style{
+    position: relative;
+    margin-left: 630px;
+    margin-top: 60px;
+    color: white;
+    background-color: black;
+    height: 45px;
+    padding: 40px, 40px, 40px, 40px;
+    border-radius: 0px !important;
+}
+.btn:hover {
+    background-color: black;
+    transition: 0.7s;
+}
+.ad-img{
+    position: relative;
+    margin-top: 50px;
+    
+}
+.ad-text{
+    position: absolute;
+    font-size: 27px;
+    font-weight: 500;
+    margin-top: 90px;
+    margin-left: 600px;
+}
+.ad-text span{
+    color: red;
+    font-weight: 800;
+}
+.ad-text2{
+    position: absolute;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 125px;
+    margin-left: 600px;
+}
+.button-style2{
+    position: absolute;
+    color: white;
+    background-color: red;
+    height: 45px;
+    width: 150px;
+    border-radius: 0px !important;
+    margin-top: 180px;
+    margin-left: 612px;
+}
+.button-style2:hover,  .offer-btn:hover{
+    background-color: red;
+    transition: 0.7s;
+}
+.offers-heading{
+    margin-top: 50px;
+}
+.offer h1{
+    font-weight: 800;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.offer h4{
+    color: #28282B;
+    font-size: 16px;
+}
+.offer-btn{
+    margin-left: 250px;
+    padding: 20px, 20px, 20px, 20px;
+    margin-top: 22px;
+    background-color: red;
+    color: white;
+    border-radius: 0px;
+}
+.card{
+    margin-top: 50px;
+    border-color: white !important;
+}
+.card-style img{
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    height: 280px;
+}
+.card-style h2{
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 25px;
+}
+.card-style p{
+    font-size: 16px;
+}
+.card-style a{
+    text-decoration: none;
+    color: red;
+    font-weight: 700;
+    margin-right: 90px;
+}
+.partner h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 800;
+    font-size: 35px;
+}
+.sm-card{
+    height: 140px;
+}
+.sm-card img{
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    margin-right: 20px;
+}
+.sm-card p{
+    font-size: 16px;
+    margin-top: 22px;
+}
+.partner-link{
+    margin-bottom: 50px;
+}
+.partner-link a{
+    text-decoration: none;
+    color: red;
+    font-weight: 500;
+}
+.l1{
+    margin-left: 270px;
+}
+.l2{
+    margin-left: 300px;
+}
+.l3{
+    margin-left: 378px;
+}
+
+.footer-ad-img{
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.footer-ad h2{
+   position: relative;
+   margin-top: 118px;
+   font-size: 29px;
+   font-weight: 800;
+   color: #D4002A;
+   margin-right: 180px;
+   padding-top: 42px;
+   padding-left: 20px;
+
+}
+.find{
+   position: relative;
+   margin-top: 13px;
+   font-size: 18px;
+   font-weight: 500;
+   color: #D4002A;
+   margin-left: 22px;
+   padding-left: 10px;
+}
+.learn{
+    position: relative;
+    margin-top: 26px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 22px;
+    padding-left: 10px;
+}
+.learn a{
+    color: red;
+}
+.detail{
+    position: relative;
+    background: rgba(219, 219, 219, 0.839);
+    margin-left: 600px;
+    height: 300px;
+    right: 0;
+    margin-bottom: 80px;
+}
+.foot-cont{
+    margin-top: 60px;
+    background-image: linear-gradient(to right, #000000, rgb(160, 13, 13), rgb(129, 9, 9), #000000);
+    height: 385px;
+}
+.foot-head{
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.foothead ul{
+    list-style: none;
+}
+.foothead ul a{
+    color: white;
+    text-decoration: none;
+}
+.copyrite{
+    margin-top: 18px;
+    color: white;
+}
+.social-icons img{
+    margin-right: 10px;
+}
+
+
+
+
+
+
